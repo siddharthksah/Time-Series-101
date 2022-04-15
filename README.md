@@ -76,5 +76,24 @@ A guide on time series analysis
 4.6.2 Unobserved components
 4.6.3 Dynamic Factor models
 
+Facebook's Prophet Time Series Library --
+
+Hourly Time Series Forecasting using Facebook's Prophet
+Data
+EDA
+Train/Test Split
+Simple Prophet Model
+Compare Forecast to Actuals
+Look at first month of predictions
+Single Week of Predictions
+Error Metrics
+Adding Holidays
+Error Metrics with Holidays Added
+Compare Models Just for Holiday Dates
+Error of all Holidays
+Identify Error by holiday
+Plot Error of Each Forecast
+Data Cleaning
+
 
 Based on this [Kaggle Notebook](https://www.kaggle.com/code/thebrownviking20/everything-you-can-do-with-a-time-series/notebook) and [this](https://www.kaggle.com/code/robikscube/time-series-forecasting-with-prophet/data)
