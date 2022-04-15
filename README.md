@@ -77,4 +77,4 @@ A guide on time series analysis
 4.6.3 Dynamic Factor models
 
 
-Based on this [Kaggle Notebook](https://www.kaggle.com/code/thebrownviking20/everything-you-can-do-with-a-time-series/notebook)
+Based on this [Kaggle Notebook](https://www.kaggle.com/code/thebrownviking20/everything-you-can-do-with-a-time-series/notebook) and [this](https://www.kaggle.com/code/robikscube/time-series-forecasting-with-prophet/data)
